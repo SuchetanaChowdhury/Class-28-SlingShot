@@ -1,2 +1,2 @@
-# Class-28-SlingShot
-Game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
